@@ -4,7 +4,7 @@ Program to Display Bank details of a Account holder
  */
 
 import java.util.Scanner;
-class Bank              						      //It's my main class
+class bank              						      //It's my main class
 {
 public static void main(String args[])
 {
